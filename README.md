@@ -66,6 +66,8 @@ LLM 서버에서 입력된 단어를 활용해 질문을 생성하고, 이를 GP
 ## 실행 방법
 
 ### 1. 환경 설정
+
+**서버 설정**
 1. **프로젝트 클론**
    ```bash
    git clone https://github.com/username/project.git
