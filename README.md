@@ -81,32 +81,48 @@ LLM 서버에서 입력된 단어를 활용해 질문을 생성하고, 이를 GP
 **서버 설정**
 1. **프로젝트 클론**
    ```bash
-   git clone https://github.com/username/project.git
-   cd project
+   git clone https://github.com/Digital-Alchemist-Labs/SignGPT-Server
+   cd SignGPT-Server
    ```
 
-2. **필요한 패키지 설치**
+2. **가상환경 및 필요한 패키지 설치**
    ```bash
-   npm install
+   python3 -m venv env
+   source env/bin/activate
+   pip install --upgrade pip
+   pip install -r requirements.txt
    ```
 
 3. **환경 변수 설정**
    프로젝트 루트에 `.env` 파일을 생성하고 아래 내용을 추가:
    ```env
-   DB_URL=your_database_url
-   API_KEY=your_api_key
+   OPENAI_API_KEY="your_api_key"
+   ```
+---
+
+1. **클라이언트  설정**
+   ```bash
+   git clone https://github.com/Digital-Alchemist-Labs/SignGPT-Server
+   cd SignGPT-Server
+   ```
+
+2. **가상환경 및 필요한 패키지 설치**
+   ```bash
+   python3 -m venv env
+   source env/bin/activate
+   pip install --upgrade pip
+   pip install -r requirements.txt
    ```
 
 ### 2. 실행
-1. **개발 서버 실행**
+1. **서버 실행**
    ```bash
-   npm run dev
+   python3 app/legacy.py
    ```
 
-2. **프로덕션 빌드** (선택 사항)
+2. **클라이언트 실행**
    ```bash
-   npm run build
-   npm start
+   streamlit run main.py
    ```
 
 ### 3. 접속
