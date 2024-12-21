@@ -1,6 +1,7 @@
 # AI-Makerthon 팀 프로젝트 소개
  
-![프로젝트 로고](https://via.placeholder.com/200)
+<img src="https://github.com/SignGPT-pro/.github/raw/main/imgs/sign%20gpt%20(upscale).png" alt="Sign GPT" width="200" height="200">
+
 
 ## 목차
 - [팀 소개](#팀-소개)
