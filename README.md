@@ -57,7 +57,7 @@ LLM 서버에서 입력된 단어를 활용해 질문을 생성하고, 이를 GP
 - **프론트엔드**: Python
 - **백엔드**: Python
 - **데이터베이스**: MongoDB
-- **배포**: AWS, Docker
+- **배포**: vercel
 
 ![시스템 구조](https://via.placeholder.com/800x400)
 
