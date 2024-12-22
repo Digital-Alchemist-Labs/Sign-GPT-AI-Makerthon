@@ -33,6 +33,12 @@ ChatGPT의 출시 이후, 우리의 일상이 한층 더 편리해졌습니다. 
 
 <img src="https://media.discordapp.net/attachments/1319834527916494889/1320264559168196639/2.png?ex=6768f7b0&is=6767a630&hm=714c45380b50df6517fceae9300c7acd60da968fb69666527d998efe3a4b9797&=&width=1948&height=1174">
 
+<img src="https://media.discordapp.net/attachments/1319834527916494889/1320264559642148865/3.png?ex=6768f7b0&is=6767a630&hm=1d4c02b07569767a16c4a0d9db7f108131be3dfa8a654fc06054b3efdcda266d&=&width=1928&height=1174">
+
+<img src="https://media.discordapp.net/attachments/1319834527916494889/1320264560078491709/4.png?ex=6768f7b0&is=6767a630&hm=b04376524a9beb5da263e905f4b2cb5763cafefbbeac295ab1e90a6a0638186f&=&width=1900&height=1174">
+
+<img src="https://media.discordapp.net/attachments/1319834527916494889/1320264560552312914/5.png?ex=6768f7b0&is=6767a630&hm=eb8b470fbf79f07d523ee8f03014d8a55df33fffa504d5c9c2f705cc8e8af400&=&width=2536&height=1174">
+
 이러한 문제를 해결하고자 저희는 농인의 정보 격차를 줄이며, 이들의 사회적 참여와 기회를 확대하기 위해 이번 프로젝트를 진행하게 되었습니다.
 
 ### 주요 동기:
