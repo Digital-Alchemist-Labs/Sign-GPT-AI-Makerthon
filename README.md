@@ -102,8 +102,8 @@ LLM 서버에서 입력된 단어를 활용해 질문을 생성하고, 이를 GP
 
 1. **클라이언트  설정**
    ```bash
-   git clone https://github.com/Digital-Alchemist-Labs/SignGPT-Server
-   cd SignGPT-Server
+   git clone https://github.com/Digital-Alchemist-Labs/SignGPT-Client
+   cd SignGPT-Client
    ```
 
 2. **가상환경 및 필요한 패키지 설치**
