@@ -76,7 +76,7 @@ ChatGPT의 출시 이후, 우리의 일상이 한층 더 편리해졌습니다. 
   
   ![프로젝트 최종 프로세스](https://github.com/user-attachments/assets/1cf8f18b-582a-4c02-9d8a-6831f1020e80)
 
-### 결과 화면
+### 프로젝트 프론트 프로토타입
 ![결과 화면](https://github.com/user-attachments/assets/fad126f5-1b4f-44c9-bed5-cb72158de21c)
 
 ---
