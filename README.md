@@ -175,11 +175,11 @@ ChatGPT의 출시 이후, 우리의 일상이 한층 더 편리해졌습니다. 
 
 프로젝트에 대한 문의 사항은 아래로 연락해주세요:
 
-- **이메일**: [example@example.com](mailto:example@example.com)
+- **이메일**: [jaesek1223@icloud.com](mailto:jaesek1223@icloud.com)
 - **GitHub Issues**:
   - [클라이언트 이슈 바로가기](https://github.com/Digital-Alchemist-Labs/SignGPT-Client/issues)
   - [서버 이슈 바로가가기](https://github.com/Digital-Alchemist-Labs/SignGPT-Server/issues)
-- **팀 웹사이트**: [[https://team-website.com](https://team-website.com](https://github.com/Digital-Alchemist-Labs))
+- **팀 웹사이트**: [바로가기](https://github.com/Digital-Alchemist-Labs)
 
 ---
 
