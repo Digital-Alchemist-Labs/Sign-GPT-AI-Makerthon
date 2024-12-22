@@ -58,22 +58,24 @@ ChatGPT의 출시 이후, 우리의 일상이 한층 더 편리해졌습니다. 
 ### 기술 설명
 - **수어 인식 후 서버에 값 전달**
   
-  ![수어 인식 후 서버에 값 전달](https://github.com/user-attachments/assets/458f732a-bda4-4a02-8759-1d6796ec2991){: width="1071" }
+  ![수어 인식 후 서버에 값 전달](https://github.com/user-attachments/assets/458f732a-bda4-4a02-8759-1d6796ec2991)
 
 ---
 
 - **LLM Server 처리**
   
-  ![LLM Server 처리](https://github.com/user-attachments/assets/08a780e5-fa52-4c4a-a8e6-c411b86b3be9){: width="983" }
+  ![LLM Server 처리](https://github.com/user-attachments/assets/08a780e5-fa52-4c4a-a8e6-c411b86b3be9)
 
+  - 서버 로그
+    
 ---
 
 - **프로젝트 최종 프로세스**
   
-  ![프로젝트 최종 프로세스](https://github.com/user-attachments/assets/1cf8f18b-582a-4c02-9d8a-6831f1020e80){: width="1026" }
+  ![프로젝트 최종 프로세스](https://github.com/user-attachments/assets/1cf8f18b-582a-4c02-9d8a-6831f1020e80)
 
 ### 결과 화면
-![결과 화면](https://github.com/user-attachments/assets/fad126f5-1b4f-44c9-bed5-cb72158de21c){: width="100%" }
+![결과 화면](https://github.com/user-attachments/assets/fad126f5-1b4f-44c9-bed5-cb72158de21c)
 
 ---
 
