@@ -167,7 +167,7 @@ ChatGPT의 출시 이후, 우리의 일상이 한층 더 편리해졌습니다. 
 
 2. **클라이언트 실행**
     ```bash
-    streamlit run main.py
+    streamlit run app.py
     ```
 
 ### 3. 접속
