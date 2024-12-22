@@ -58,8 +58,21 @@ LLM 서버에서 입력된 단어를 활용해 질문을 생성하고, 이를 GP
 - **백엔드**: Python
 - **데이터베이스**: MongoDB
 - **배포**: vercel
+### 기술 설명
+- 수어 인식 후 서버에 값 전달
+<img width="1071" alt="image" src="https://github.com/user-attachments/assets/458f732a-bda4-4a02-8759-1d6796ec2991" />
 
-![시스템 구조](https://via.placeholder.com/800x400)
+---
+- LLM Server 처리
+<img width="983" alt="image" src="https://github.com/user-attachments/assets/08a780e5-fa52-4c4a-a8e6-c411b86b3be9" />
+
+---
+- 프로젝트 최종 프로세스
+<img width="1026" alt="image" src="https://github.com/user-attachments/assets/1cf8f18b-582a-4c02-9d8a-6831f1020e80" />
+
+### 결과 화면
+![ScreenRecording2024-12-22at10 30 34AM-ezgif com-speed](https://github.com/user-attachments/assets/fad126f5-1b4f-44c9-bed5-cb72158de21c)
+
 
 ---
 
@@ -68,9 +81,16 @@ LLM 서버에서 입력된 단어를 활용해 질문을 생성하고, 이를 GP
 1. 지금까지 한 것 :
    - LLM 서버 배포 및 클라이언트 배포 (진행중)
    -  대화 기록 및 과거 메세지 접근 (진행중)
-3. 어라.. 이게 되네 했던것 : 없음
-4. 앞으로 해야하는 기능 구현 : 로컬 LLM 서버
-5. 남은 기간 가장 큰 여려운 것 : 서버 배포 (구 버전 패키지만 vercel 배포를 지원함)
+2. 어라.. 이게 되네 했던것 : 없음
+3. 앞으로 해야하는 기능 구현 : 로컬 LLM 서버
+4. 남은 기간 가장 큰 여려운 것 : 서버 배포 (구 버전 패키지만 vercel 배포를 지원함)
+
+## 2일차
+
+1. 지금까지 한 것 :
+2. 어라.. 이게 되네 했던것 : 
+3. 앞으로 해야하는 기능 구현 : 
+4. 남은 기간 가장 큰 여려운 것 : 
 
 ---
 
