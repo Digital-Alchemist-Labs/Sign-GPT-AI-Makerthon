@@ -60,7 +60,7 @@ ChatGPT의 출시 이후, 우리의 일상이 한층 더 편리해졌습니다. 
   
   ![수어 인식 후 서버에 값 전달](https://github.com/user-attachments/assets/458f732a-bda4-4a02-8759-1d6796ec2991)
 
-  - 전달 과정
+  - 인식 과정
   ![프로젝트 최종 프로세스](https://github.com/user-attachments/assets/1cf8f18b-582a-4c02-9d8a-6831f1020e80)
 
 ---
