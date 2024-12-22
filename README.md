@@ -148,8 +148,8 @@ ChatGPT의 출시 이후, 우리의 일상이 한층 더 편리해졌습니다. 
     ```
 
 ### 3. 접속
-- 로컬에서: [http://localhost:3000](http://localhost:3000)
-- 배포된 서버: [https://your-deployed-site.com](https://your-deployed-site.com)
+- 서버 : [http://0.0.0.0:8000](http://0.0.0.0:8000)
+- 클라이언트 : 클라이언트 실행시 접속됨
 
 ---
 
