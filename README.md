@@ -155,11 +155,7 @@ ChatGPT의 출시 이후, 우리의 일상이 한층 더 편리해졌습니다. 
 
 ## 시연영상
 
-시연 영상을 보려면 다음 링크를 클릭해주세요:
-
-[YouTube에서 시연 영상 보기](https://www.youtube.com/watch?v=3sW5sfu0VPc&si=C_A63wrLHFQ5b6PM)
-
-또는 썸네일 이미지를 클릭하여 시연 영상을 시청할 수 있습니다:
+썸네일 이미지를 클릭하여 시연 영상 시청
 
 [![시연 영상](https://img.youtube.com/vi/3sW5sfu0VPc/maxresdefault.jpg)](https://www.youtube.com/watch?v=3sW5sfu0VPc&si=C_A63wrLHFQ5b6PM)
 
