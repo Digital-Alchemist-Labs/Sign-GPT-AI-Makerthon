@@ -186,6 +186,7 @@ ChatGPT의 출시 이후, 우리의 일상이 한층 더 편리해졌습니다. 
 프로젝트에 대한 문의 사항은 아래로 연락해주세요:
 
 - **이메일**: [jaesek1223@icloud.com](mailto:jaesek1223@icloud.com)
+- **팀장 인스타**: [@its.83_](https://www.instagram.com/its.83_/)
 - **GitHub Issues**:
   - [클라이언트 이슈 바로가기](https://github.com/Digital-Alchemist-Labs/SignGPT-Client/issues)
   - [서버 이슈 바로가가기](https://github.com/Digital-Alchemist-Labs/SignGPT-Server/issues)
