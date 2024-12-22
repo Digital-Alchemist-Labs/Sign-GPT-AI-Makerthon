@@ -67,6 +67,8 @@ ChatGPT의 출시 이후, 우리의 일상이 한층 더 편리해졌습니다. 
   ![LLM Server 처리](https://github.com/user-attachments/assets/08a780e5-fa52-4c4a-a8e6-c411b86b3be9)
 
   - 서버 로그
+
+  ![image](https://github.com/user-attachments/assets/1743c932-f28c-4349-ad98-abb0b4aa86b5)
     
 ---
 
