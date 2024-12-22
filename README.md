@@ -56,12 +56,33 @@ ChatGPT의 출시 이후, 우리의 일상이 한층 더 편리해졌습니다. 
 - **배포**: Vercel
 
 ### 기술 설명
-- **수어 인식 후 서버에 값 전달**
-  
-  ![수어 인식 후 서버에 값 전달](https://github.com/user-attachments/assets/458f732a-bda4-4a02-8759-1d6796ec2991)
+
+- **전체 프레임워크**
+
+  ![전체 프레임워크](https://github.com/Digital-Alchemist-Labs/Sign-GPT-AI-Makerthon/blob/main/assets/all.png)
+
+- **Sign to Text module (수어 인식 모듈)**
 
   - 인식 과정
   ![프로젝트 최종 프로세스](https://github.com/user-attachments/assets/1cf8f18b-582a-4c02-9d8a-6831f1020e80)
+
+  <details>
+    <summary>모델 구조</summary>
+      <img width="720" alt="image" src="https://github.com/Digital-Alchemist-Labs/Sign-GPT-AI-Makerthon/blob/main/assets/stt.png" />
+  </details>
+  <details>
+    <summary>Transformer</summary>
+      <img width="720" alt="image" src="https://github.com/Digital-Alchemist-Labs/Sign-GPT-AI-Makerthon/blob/main/assets/Transformer.png" />
+  </details>
+  <details>
+    <summary>TCN</summary>
+      <img width="720" alt="image" src="https://github.com/Digital-Alchemist-Labs/Sign-GPT-AI-Makerthon/blob/main/assets/TCN.png" />
+  </details>
+
+#### 수어 인식 후 서버에 값 전달
+  ![수어 인식 후 서버에 값 전달](https://github.com/user-attachments/assets/458f732a-bda4-4a02-8759-1d6796ec2991)
+
+
 
 ---
 
